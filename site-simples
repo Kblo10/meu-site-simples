@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Primeiro commit do meu site simples"
+git branch -M main
+git remote add origin https://github.com/Kblo10/meu-site-simples.git
+git push -u origin main
